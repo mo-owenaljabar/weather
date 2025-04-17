@@ -3,3 +3,4 @@
 - rain
 - sunshine
 - fog
+- snow
